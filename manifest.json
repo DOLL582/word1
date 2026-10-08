@@ -1,0 +1,10 @@
+{
+  "name": "单词记忆助手",
+  "short_name": "单词记忆",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111827",
+  "lang": "zh-CN",
+  "description": "离线英语单词记忆与间隔复习工具"
+}
